@@ -264,6 +264,7 @@ p {
 .navbar-toggler-icon {
 	top: 15px;
 	right: 0px;
+	left: -15px;
 	position: absolute;
 }
 
